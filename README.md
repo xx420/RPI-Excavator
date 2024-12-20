@@ -1,7 +1,7 @@
 # RPi- Digger
 **Raspberry Pi5 -Powered Excavator**
 
-![image](/attachment/image.jpeg)
+![image](/Attachments/image.jpeg)
 
 
 ### Excavator Control System
@@ -20,6 +20,6 @@ The Excavator Control System enables wireless operation and monitoring of an exc
 ### Project Brochure
 
 
-![image6](/attachment/brochure1.png)
+![image6](/Attachments/brochure1.png)
 
-![image7](/attachment/brochure2.png)
+![image7](/Attachments/brochure2.png)
