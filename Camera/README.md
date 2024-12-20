@@ -15,7 +15,7 @@ sudo docker run -it --restart=always -d --name camera \
   --device /dev/video0 \
   camera_app:latest
   ```
-![image4](/attachment/camera.png)
+![image4](/Attachments/camera.png)
 
 
 
@@ -89,4 +89,4 @@ Once recording stops, the video file is automatically uploaded to Azure Blob Sto
 **Stop Recording:** Stop recording to trigger an upload to Azure Blob Storage.
 **Verify Upload:** Check the Azure Blob Storage container for the uploaded video.
 
-![image5](/attachment/camera2.jpeg)
+![image5](/Attachments/camera2.jpeg)
